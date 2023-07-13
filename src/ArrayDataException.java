@@ -4,9 +4,3 @@ public class ArrayDataException extends Throwable {
         return "Invalid array's data. Please enter the digits only!";
     }
 }
-
-//public class ArrayDataException extends Throwable {
-//    public ArrayDataException() {
-//        super("Invalid array's data. Please enter the digits only!");
-//    }
-//}
